@@ -1,0 +1,5 @@
+summary: A convenient unified display of the most relevant technical and tag data for video and audio files
+webpage: https://mediaarea.net/
+version: 24.05
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-32-aarch64/releases/download/2025.01.22/mediainfo-24.05-android-32-arm64-v8a.release.tar.xz
+bin-sha: 0af1bf5320f7956abb4b98ff5afe8871c95c734ce7a58b84b6b178c70d3efbd2

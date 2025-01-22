@@ -1,0 +1,5 @@
+summary: WebSocket client and server, and HTTP client command-line tool
+webpage: https://github.com/machinezone/IXWebSocket
+version: 11.3.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-32-aarch64/releases/download/2025.01.22/libixwebsocket-11.3.2-android-32-arm64-v8a.release.tar.xz
+bin-sha: 3405c340fe2c378ab9749effe53e1d854088eae45063d0a0f990217495aa0193

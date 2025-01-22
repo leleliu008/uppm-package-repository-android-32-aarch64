@@ -1,0 +1,5 @@
+summary: High performance key/value database
+webpage: https://www.oracle.com/database/technologies/related/berkeleydb.html
+version: 18.1.40
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-32-aarch64/releases/download/2025.01.22/libdb-18.1.40-android-32-arm64-v8a.release.tar.xz
+bin-sha: 6ada31b368c343ae2a75227dc611db1598c10b9b520e4952427335c9e2cbfa90

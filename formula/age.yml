@@ -1,0 +1,5 @@
+summary: A simple, modern and secure encryption tool with small explicit keys, no config options, and UNIX-style composability
+webpage: https://filippo.io/age
+version: 1.2.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-32-aarch64/releases/download/2025.01.22/age-1.2.0-android-32-arm64-v8a.release.tar.xz
+bin-sha: 57b03b31a5ca626d8ff6b195a0f26bae5e302de9de91a467e7894da1b972a0f9

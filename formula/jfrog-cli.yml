@@ -1,0 +1,5 @@
+summary: A command-line interface for Jfrog Artifactory and Bintray
+webpage: https://www.jfrog.com/confluence/display/CLI/JFrog+CLI
+version: 2.56.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-32-aarch64/releases/download/2025.01.22/jfrog-cli-2.56.1-android-32-arm64-v8a.release.tar.xz
+bin-sha: c869e32caffbd16347903cd2b3886b6f1375a39f73cb0f355a15daffa2381a11

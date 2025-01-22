@@ -1,0 +1,5 @@
+summary: Watch a file or folder and automatically commit changes to a git repo easily
+webpage: https://github.com/gitwatch/gitwatch
+version: 0.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-32-aarch64/releases/download/2025.01.22/gitwatch-0.2-android-aarch64.release.tar.xz
+bin-sha: fdc509e85eeb0e6c412efc7bbf4293f485dafe528de384a5b7487c2a20a8eb78

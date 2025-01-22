@@ -1,0 +1,5 @@
+summary: A file server that supports static serving, uploading, searching, accessing control, webdav...
+webpage: https://github.com/sigoden/dufs
+version: 0.41.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-32-aarch64/releases/download/2025.01.22/dufs-0.41.0-android-32-arm64-v8a.release.tar.xz
+bin-sha: eaa783e3f545bce227a1601648488b237a291a0d32c1587fb881152cea8f2025

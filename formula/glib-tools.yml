@@ -1,0 +1,5 @@
+summary: A collection of tools for glib
+webpage: https://developer.gnome.org/glib
+version: 2.80.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-32-aarch64/releases/download/2025.01.22/glib-tools-2.80.2-android-32-arm64-v8a.release.tar.xz
+bin-sha: 44226c10d58dd09c51d38aa15a2dee0b4772353b5cdc3c77489131102e9a7af8

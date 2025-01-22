@@ -1,0 +1,5 @@
+summary: Thai language support library
+webpage: https://linux.thai.net/projects/libthai
+version: 0.1.28
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-32-aarch64/releases/download/2025.01.22/libthai-0.1.28-android-32-arm64-v8a.release.tar.xz
+bin-sha: 1c01f2286b00758300a593c9330adca3c67ac5b70266a3545f264d4f4462dcd0

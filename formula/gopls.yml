@@ -1,0 +1,5 @@
+summary: Language server for the Go language
+webpage: https://github.com/golang/tools/tree/master/gopls
+version: 0.16.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-32-aarch64/releases/download/2025.01.22/gopls-0.16.0-android-32-arm64-v8a.release.tar.xz
+bin-sha: ed3691e5074ab8612559fad10a7a6ead50bbecd4ea583b7f0b3e2081db3418d8

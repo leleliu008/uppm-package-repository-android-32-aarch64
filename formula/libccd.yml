@@ -1,0 +1,5 @@
+summary: Collision detection between two convex shapes
+webpage: https://github.com/danfis/libccd
+version: 2.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-32-aarch64/releases/download/2025.01.22/libccd-2.1-android-32-arm64-v8a.release.tar.xz
+bin-sha: 839121ad93b23fd384ce7fdd1d354c334bf572ad6df8609a68a117582e7090b2

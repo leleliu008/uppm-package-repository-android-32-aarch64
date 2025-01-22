@@ -1,0 +1,5 @@
+summary: A simple, fast container image builder for Go applications
+webpage: https://ko.build
+version: 0.15.4
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-32-aarch64/releases/download/2025.01.22/ko-0.15.4-android-32-arm64-v8a.release.tar.xz
+bin-sha: edb71c056fa4f058e45066aa7f9ac6f626e7291679c613d56e93def52438ed76

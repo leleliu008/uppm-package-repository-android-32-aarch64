@@ -1,0 +1,5 @@
+summary: (Arguably) the best yacc variant
+webpage: https://invisible-island.net/byacc/
+version: 20240109
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-32-aarch64/releases/download/2025.01.22/byacc-20240109-android-32-arm64-v8a.release.tar.xz
+bin-sha: 64e8879c54d7a20be228ed39e2177828d5b2c79994eee36cdd4c952250da8f25

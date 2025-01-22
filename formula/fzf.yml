@@ -1,0 +1,5 @@
+summary: A command-line fuzzy finder written in Go
+webpage: https://github.com/junegunn/fzf
+version: 0.53.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-32-aarch64/releases/download/2025.01.22/fzf-0.53.0-android-32-arm64-v8a.release.tar.xz
+bin-sha: 320cc57718d587a6738555fd25ce0f992d7b6d71c1d35e403c22508af909ed62

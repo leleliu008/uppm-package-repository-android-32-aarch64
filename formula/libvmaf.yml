@@ -1,0 +1,5 @@
+summary: Perceptual video quality assessment based on multi-method fusion
+webpage: https://github.com/Netflix/vmaf
+version: 3.0.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-32-aarch64/releases/download/2025.01.22/libvmaf-3.0.0-android-32-arm64-v8a.release.tar.xz
+bin-sha: 769d7ec58ee12927fb90f8ef7d91d2b9a613b42706d786886107674899096be2

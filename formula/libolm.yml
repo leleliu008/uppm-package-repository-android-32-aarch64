@@ -1,0 +1,5 @@
+summary: An implementation of the Double Ratchet cryptographic ratchet
+webpage: https://gitlab.matrix.org/matrix-org/olm
+version: 3.2.16
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-32-aarch64/releases/download/2025.01.22/libolm-3.2.16-android-32-arm64-v8a.release.tar.xz
+bin-sha: 4b8c1b1b4184000fdbbcac802f54fc259fee397c4c172127ed9815c59a947cdc

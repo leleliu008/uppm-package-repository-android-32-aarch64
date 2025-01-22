@@ -1,0 +1,5 @@
+summary: A high-performance JPEG image codec that uses SIMD instructions (MMX, SSE2, AVX2, Neon, AltiVec) to accelerate baseline JPEG compression and decompression
+webpage: https://www.libjpeg-turbo.org/
+version: 3.0.3
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-32-aarch64/releases/download/2025.01.22/libjpeg-turbo-3.0.3-android-32-arm64-v8a.release.tar.xz
+bin-sha: 648f77591d92abd7b42356bf3e014d1ba9af907928f820982ca71a14908d053c

@@ -1,0 +1,5 @@
+summary: C client library for NFS
+webpage: https://github.com/sahlberg/libnfs
+version: 5.0.3
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-32-aarch64/releases/download/2025.01.22/libnfs-5.0.3-android-32-arm64-v8a.release.tar.xz
+bin-sha: 33980d828eaa15cee2c531d364c5c29b6afb5d2f8a72d5fba3d126ae252d570a

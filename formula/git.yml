@@ -1,0 +1,5 @@
+summary: A free and open source distributed version control system with speed and efficiency
+webpage: https://git-scm.com/
+version: 2.48.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-32-aarch64/releases/download/2025.01.22/git-2.48.1-android-32-arm64-v8a.release.tar.xz
+bin-sha: ecee7f91833e06f4fdb7ac86e82a725181b9e8e0920e07c32bd14f5f68363a19

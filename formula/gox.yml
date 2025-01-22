@@ -1,0 +1,5 @@
+summary: Go cross compile tool
+webpage: https://github.com/mitchellh/gox
+version: 1.0.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-32-aarch64/releases/download/2025.01.22/gox-1.0.1-android-32-arm64-v8a.release.tar.xz
+bin-sha: 9657bbcb6c2f2e90d3420729969919a019428db61f63ad4e982c9cf68534546c
