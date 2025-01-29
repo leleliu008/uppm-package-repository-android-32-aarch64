@@ -1,5 +1,5 @@
 summary: Subtitle renderer for the ASS/SSA subtitle format
 webpage: https://github.com/libass/libass
 version: 0.17.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-32-aarch64/releases/download/2025.01.22/libass-0.17.2-android-32-arm64-v8a.release.tar.xz
-bin-sha: 914da00cfda2c798a351061677216a15f211aad3228190acc28517378a3d7d1c
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-32-aarch64/releases/download/2025.01.29/libass-0.17.2-android-32-arm64-v8a.release.tar.xz
+bin-sha: dae66ae4f5b5c68f924cb60df4d7c3b9506dae6e09b9e17c165b817a14319c9e

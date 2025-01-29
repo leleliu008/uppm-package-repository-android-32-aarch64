@@ -1,5 +1,5 @@
 summary: An open source implementation of the H.265 video codec
 webpage: https://github.com/strukturag/libde265
 version: 1.0.15
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-32-aarch64/releases/download/2025.01.22/libde265-1.0.15-android-32-arm64-v8a.release.tar.xz
-bin-sha: 3a1a045fd8cac41d6712643125a2e1147cb8e3599501501386120544e9be7e9a
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-32-aarch64/releases/download/2025.01.29/libde265-1.0.15-android-32-arm64-v8a.release.tar.xz
+bin-sha: 09b0584d56f118afa174cf0bbbe3f8235c358fde4451f4c64eee7df3c8ab48b6

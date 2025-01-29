@@ -1,5 +1,5 @@
 summary: Top-like interface for container metrics
 webpage: https://ctop.sh
 version: 0.7.7
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-32-aarch64/releases/download/2025.01.22/ctop-0.7.7-android-32-arm64-v8a.release.tar.xz
-bin-sha: 02844e9e4f5512aad29c64728611ba7f94f6bc3dd127e160daf5a4f1a2d62d63
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-32-aarch64/releases/download/2025.01.29/ctop-0.7.7-android-32-arm64-v8a.release.tar.xz
+bin-sha: 736a1f39ed1f77459bcdcb2acbf8f43a74c94d3dab8822aa1cb56901341dc08d

@@ -1,5 +1,5 @@
 summary: WebM container
 webpage: https://www.webmproject.org/
 version: 1.0.0.31
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-32-aarch64/releases/download/2025.01.22/libwebm-1.0.0.31-android-32-arm64-v8a.release.tar.xz
-bin-sha: 2e3b4a9ea53524dae2b925c7a895f012cd7ce1b514feae4c628f2572d9653854
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-32-aarch64/releases/download/2025.01.29/libwebm-1.0.0.31-android-32-arm64-v8a.release.tar.xz
+bin-sha: 34cdc17e676bd6c919d6f0a391118334f276f77da974fa7d63a77b7583063d13

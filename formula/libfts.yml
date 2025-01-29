@@ -1,0 +1,5 @@
+summary: fts(3) functions that are missing in musl libc
+webpage: https://github.com/void-linux/musl-fts
+version: 1.2.7
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-32-aarch64/releases/download/2025.01.29/libfts-1.2.7-android-32-arm64-v8a.release.tar.xz
+bin-sha: d3e6df657c12fc1cea2c2d53b85363be525ca57bfac3975aa803162b32f0656e

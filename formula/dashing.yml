@@ -1,0 +1,5 @@
+summary: Generate Dash documentation from HTML files
+webpage: https://github.com/technosophos/dashing
+version: 0.4.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-32-aarch64/releases/download/2025.01.29/dashing-0.4.0-android-32-arm64-v8a.release.tar.xz
+bin-sha: a0c6d53d2b02c1fe733cd6cca841e664befe85038984bf9f96af7e526b426bb5

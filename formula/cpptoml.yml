@@ -1,5 +1,5 @@
 summary: Header-only library for parsing TOML
 webpage: https://github.com/skystrife/cpptoml
 version: 0.1.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-32-aarch64/releases/download/2025.01.22/cpptoml-0.1.1-android-aarch64.release.tar.xz
-bin-sha: c17224c6a95767e496dc1cb860eb8279b455dd0f4b6760a49753fc2b6fa6ee3c
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-32-aarch64/releases/download/2025.01.29/cpptoml-0.1.1-android-aarch64.release.tar.xz
+bin-sha: 7cdf0a0a80fc56f9dcb4409b5ede2b5524db6153c44f8e02da8c61adff2fcc3d

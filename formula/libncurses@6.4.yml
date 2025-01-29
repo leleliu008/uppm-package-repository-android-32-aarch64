@@ -1,5 +1,5 @@
 summary: Text-based UI library
 webpage: https://www.gnu.org/software/ncurses
 version: 6.4
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-32-aarch64/releases/download/2025.01.22/libncurses-6.4-android-32-arm64-v8a.release.tar.xz
-bin-sha: 79635725d7bd19da8142bf3bf89592e2358c087c9b4effe7fd9c4b684bb2ce4f
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-32-aarch64/releases/download/2025.01.29/libncurses-6.4-android-32-arm64-v8a.release.tar.xz
+bin-sha: 420dc80e7f3045210def5829920a305787181d6de9ffacaa8cb5f809e10104bf

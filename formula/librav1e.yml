@@ -1,5 +1,5 @@
 summary: The fastest and safest AV1 video encoder
 webpage: https://github.com/xiph/rav1e
 version: 0.7.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-32-aarch64/releases/download/2025.01.22/librav1e-0.7.1-android-32-arm64-v8a.release.tar.xz
-bin-sha: 97f3ff6cdcbc8198be273e698fbc576fbf5633b3f7fde2c295e3c8f956d77760
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-32-aarch64/releases/download/2025.01.29/librav1e-0.7.1-android-32-arm64-v8a.release.tar.xz
+bin-sha: 12f745b6d87e57700a3e5d82fb5d06c5dea3aaa0cf56e67f8a3f35e9c96c2e7c

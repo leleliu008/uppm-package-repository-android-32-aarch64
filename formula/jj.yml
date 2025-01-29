@@ -1,5 +1,5 @@
 summary: A git-compatible distributed version control system
 webpage: https://github.com/martinvonz/jj
 version: 0.25.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-32-aarch64/releases/download/2025.01.22/jj-0.25.0-android-32-arm64-v8a.release.tar.xz
-bin-sha: 8b9cb0f7f2e0aa1280b2d1eb0e9aedd7399aaf3dfc60fd1889975895113c6387
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-32-aarch64/releases/download/2025.01.29/jj-0.25.0-android-32-arm64-v8a.release.tar.xz
+bin-sha: 338c8b1af3f8a9febdaa33154bd29d55bc367105f02200435b1eef56753c9b4c

@@ -1,5 +1,5 @@
 summary: A C++ library and a command-line utility to read, write, delete and modify Exif, IPTC, XMP and ICC image metadata
 webpage: https://exiv2.org/
 version: 0.28.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-32-aarch64/releases/download/2025.01.22/libexiv2-0.28.2-android-32-arm64-v8a.release.tar.xz
-bin-sha: a36b3fe8e089347d02988d4b0d0691056075e98a2bfae4cdb20531a1e81ecdb6
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-32-aarch64/releases/download/2025.01.29/libexiv2-0.28.2-android-32-arm64-v8a.release.tar.xz
+bin-sha: 2c212f7c591d6d7a4f51bbb0db85dd9a48aaf702e19f5ef7798c58ba56db9400

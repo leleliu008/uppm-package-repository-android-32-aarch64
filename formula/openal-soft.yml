@@ -1,5 +1,5 @@
 summary: Implementation of the OpenAL 3D audio API
 webpage: https://openal-soft.org/
 version: 1.23.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-32-aarch64/releases/download/2025.01.22/openal-soft-1.23.1-android-32-arm64-v8a.release.tar.xz
-bin-sha: 14767c296062353630c668efae4657a721b7cffd11e0e80af7e666a978931321
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-32-aarch64/releases/download/2025.01.29/openal-soft-1.23.1-android-32-arm64-v8a.release.tar.xz
+bin-sha: 06fb108efb3940523a6f99fbca97a6b74824636c9e97d0dcc9ce64e6f6f4b460

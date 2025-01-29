@@ -1,5 +1,5 @@
 summary: Apply a diff file to an original
 webpage: https://savannah.gnu.org/projects/patch
 version: 2.7.6
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-32-aarch64/releases/download/2025.01.22/patch-2.7.6-android-aarch64.release.tar.xz
-bin-sha: 5d7299b9f5500b7bbaf49bdc1c966d2815fca2e677c8e7b3ee3db8eaf36a2b6d
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-32-aarch64/releases/download/2025.01.29/patch-2.7.6-android-32-arm64-v8a.release.tar.xz
+bin-sha: d04359860eb8b9f2c107c1ccb7c0806eb68788905c062f8edb313b108d811c9c

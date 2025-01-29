@@ -1,5 +1,5 @@
 summary: command-line interface for VirusTotal
 webpage: https://github.com/VirusTotal/vt-cli
 version: 1.0.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-32-aarch64/releases/download/2025.01.22/virustotal-cli-1.0.0-android-32-arm64-v8a.release.tar.xz
-bin-sha: bc4c9328b6046e2975b5ceef397e5edfcb5042aeae9e7e64e413f0b82b3d7f86
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-32-aarch64/releases/download/2025.01.29/virustotal-cli-1.0.0-android-32-arm64-v8a.release.tar.xz
+bin-sha: 87fe3417d503c85b9c42022372caa07073b3fad277029769e1be52fde18d76fd

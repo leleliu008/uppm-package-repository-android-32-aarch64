@@ -1,5 +1,5 @@
 summary: NCurses Disk Usage
 webpage: https://dev.yorhel.nl/ncdu
 version: 1.16
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-32-aarch64/releases/download/2025.01.22/ncdu-1.16-android-32-arm64-v8a.release.tar.xz
-bin-sha: 23c012f06003e970cd560a83c4da33003094db34bfac6848b72b35e6151f6a06
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-32-aarch64/releases/download/2025.01.29/ncdu-1.16-android-32-arm64-v8a.release.tar.xz
+bin-sha: 8694dc90c52afb917142f2e18777038d7e2163c47e39aa92011a3fbfa9eef946

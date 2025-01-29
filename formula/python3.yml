@@ -1,5 +1,5 @@
 summary: Interpreted, interactive, object-oriented programming language
 webpage: https://www.python.org
 version: 3.11.7
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-32-aarch64/releases/download/2025.01.22/python3-3.11.7-android-32-arm64-v8a.release.tar.xz
-bin-sha: 72263b7691a66b8945ad24683eef8c39f3654b06c4bd73a641d0059ce6b5ec7b
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-32-aarch64/releases/download/2025.01.29/python3-3.11.7-android-32-arm64-v8a.release.tar.xz
+bin-sha: 05e84a62cc4fe8e288cc31aaf2a23b1c0abde8b919388d5815261aafd383f3cf

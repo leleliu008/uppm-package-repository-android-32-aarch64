@@ -1,5 +1,5 @@
 summary: A C library for manipulating Netpbm images
 webpage: http://netpbm.sourceforge.net/
 version: 10.86.41
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-32-aarch64/releases/download/2025.01.22/libnetpbm-10.86.41-android-32-arm64-v8a.release.tar.xz
-bin-sha: 472a233c219be2631dca679693510189cba6b514082f325036cc6367aaf9ed32
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-32-aarch64/releases/download/2025.01.29/libnetpbm-10.86.41-android-32-arm64-v8a.release.tar.xz
+bin-sha: d99f32ac263c252aaea18bec3fb8e7d6d45c9148655d303bd91f59b9bcd9c4fd

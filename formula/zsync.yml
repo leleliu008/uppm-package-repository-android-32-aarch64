@@ -1,5 +1,5 @@
 summary: A file transfer program
 webpage: http://zsync.moria.org.uk/
 version: 0.6.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-32-aarch64/releases/download/2025.01.22/zsync-0.6.2-android-32-arm64-v8a.release.tar.xz
-bin-sha: d25e5653cf8b4a3f1f8bd342044e42abbc239beaca63b47d89a99cd546605a27
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-32-aarch64/releases/download/2025.01.29/zsync-0.6.2-android-32-arm64-v8a.release.tar.xz
+bin-sha: 744f03e2bcbaeb8646244008f30ecee2f01624ab8d9db9c6063939462016b30b

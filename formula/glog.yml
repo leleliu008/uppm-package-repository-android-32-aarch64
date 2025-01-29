@@ -1,5 +1,5 @@
 summary: Application-level logging library
 webpage: https://github.com/google/glog
 version: 0.6.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-32-aarch64/releases/download/2025.01.22/glog-0.6.0-android-32-arm64-v8a.release.tar.xz
-bin-sha: c8993ec692d98f798e6dac447921d1dbcb8322e52a5d17f6f9f8b7bca1af732d
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-32-aarch64/releases/download/2025.01.29/glog-0.6.0-android-32-arm64-v8a.release.tar.xz
+bin-sha: 319e2e5ab8947132e642ecbcd9b11aed79ad68a0322f20e99f3ee8a62837526a

@@ -1,5 +1,5 @@
 summary: A set of command line tools to transform, query, validate, and edit XML documents and files
 webpage: https://xmlstar.sourceforge.net/
 version: 1.6.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-32-aarch64/releases/download/2025.01.22/xmlstarlet-1.6.1-android-32-arm64-v8a.release.tar.xz
-bin-sha: c659a926af90b4266483c8f9564507eb021f77590596d87f66d77f1826b2b37d
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-32-aarch64/releases/download/2025.01.29/xmlstarlet-1.6.1-android-32-arm64-v8a.release.tar.xz
+bin-sha: 510b511d24009cad469942160708c84420b5689a133edbb531f494b3815fa7b2

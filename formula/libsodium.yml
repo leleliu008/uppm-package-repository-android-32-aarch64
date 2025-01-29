@@ -1,5 +1,5 @@
 summary: A modern, portable, easy to use crypto library
 webpage: https://libsodium.org
 version: 1.0.19
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-32-aarch64/releases/download/2025.01.22/libsodium-1.0.19-android-32-arm64-v8a.release.tar.xz
-bin-sha: d04fa61b886f371f5fe9e1683f9039a85381f613b40e683c3c8de9a65b0f8247
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-32-aarch64/releases/download/2025.01.29/libsodium-1.0.19-android-32-arm64-v8a.release.tar.xz
+bin-sha: f7905af1a6c86c8ff9f08799c93537586a2e44fe4d9a94ab5d270105a2c4c844

@@ -1,5 +1,5 @@
 summary: HTTP/2 C Library
 webpage: https://nghttp2.org/
 version: 1.61.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-32-aarch64/releases/download/2025.01.22/nghttp2-1.61.0-android-32-arm64-v8a.release.tar.xz
-bin-sha: 197066b76d06ab697df0bac64068640a8b11ef859d0f3c195932696df983e6e3
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-32-aarch64/releases/download/2025.01.29/nghttp2-1.61.0-android-32-arm64-v8a.release.tar.xz
+bin-sha: 17b5836ef811bd4519102fc98681b403f47746aac397a3f22ae615b52a53ffdf

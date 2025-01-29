@@ -1,5 +1,5 @@
 summary: Unified tool to manage your Rancher server
 webpage: https://github.com/rancher/cli
 version: 2.8.4
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-32-aarch64/releases/download/2025.01.22/rancher-2.8.4-android-32-arm64-v8a.release.tar.xz
-bin-sha: 4771012cdc3ded9e0d06a3a51c1430e475b2b85b17e2d57c00d9e30033b896ab
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-32-aarch64/releases/download/2025.01.29/rancher-2.8.4-android-32-arm64-v8a.release.tar.xz
+bin-sha: c8e444ad169cb840e423216ca0a7953d75836259ad6a52004d6d053a75282fd1

@@ -1,5 +1,5 @@
 summary: CDDB server access library
 webpage: https://libcddb.sourceforge.io
 version: 1.3.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-32-aarch64/releases/download/2025.01.22/libcddb-1.3.2-android-32-arm64-v8a.release.tar.xz
-bin-sha: e2c166a98df8185fb088d78731c8c96de68d205789e126de61a60cbe2649ac37
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-32-aarch64/releases/download/2025.01.29/libcddb-1.3.2-android-32-arm64-v8a.release.tar.xz
+bin-sha: 21d48b4145dd3f0c79b815657774e4ecccd7c1dcad1f5e00b7b023b769f93946

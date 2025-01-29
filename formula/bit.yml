@@ -1,5 +1,5 @@
 summary: A modern Git CLI
 webpage: https://github.com/chriswalz/bit
 version: 1.1.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-32-aarch64/releases/download/2025.01.22/bit-1.1.2-android-32-arm64-v8a.release.tar.xz
-bin-sha: a1e46488fda7b24f0340e4a8e83526c4a2a1ef6af1aa882a267e84b761cda5c4
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-32-aarch64/releases/download/2025.01.29/bit-1.1.2-android-32-arm64-v8a.release.tar.xz
+bin-sha: fceac56afb4027ed40b591ef4af8e69ddb998283fea79d5c4d97a1d5dd73a687

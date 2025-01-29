@@ -1,5 +1,5 @@
 summary: Library for reading RAW files from digital photo cameras
 webpage: https://www.libraw.org/
 version: 0.21.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-32-aarch64/releases/download/2025.01.22/libraw-0.21.2-android-32-arm64-v8a.release.tar.xz
-bin-sha: c236bdfb9fdd6fcab7aadd0e8bdcf2f950b07910de90d8784911a52cb9650916
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-32-aarch64/releases/download/2025.01.29/libraw-0.21.2-android-32-arm64-v8a.release.tar.xz
+bin-sha: bbdca354e2f1cba2eaf62d093e4e77cf782b3c4efe1ccbf4433dc6c75338c2a3

@@ -1,0 +1,5 @@
+summary: Command-driven, interactive function plotting
+webpage: http://www.gnuplot.info/
+version: 6.0.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-32-aarch64/releases/download/2025.01.29/gnuplot-6.0.0-android-32-arm64-v8a.release.tar.xz
+bin-sha: fe623e14e25ddf29159f90b6ba803dda26238f3fc6a5f9da29dc69dfb15f1b12

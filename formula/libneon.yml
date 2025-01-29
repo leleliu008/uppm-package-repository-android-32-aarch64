@@ -1,0 +1,5 @@
+summary: HTTP and WebDAV client library with a C interface
+webpage: https://notroj.github.io/neon/
+version: 0.34.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-32-aarch64/releases/download/2025.01.29/libneon-0.34.0-android-32-arm64-v8a.release.tar.xz
+bin-sha: 6bfb2fc6250ac3fb273da75c1ce568bb508e3afaebfe404e312b9f4328336cf4
